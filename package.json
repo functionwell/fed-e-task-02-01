@@ -1,0 +1,24 @@
+{
+  "name": "fed-e-task-02-01",
+  "version": "1.0.0",
+  "description": "开发脚手架与自动化构建工作流封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/functionwell/fed-e-task-02-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/functionwell/fed-e-task-02-01/issues"
+  },
+  "homepage": "https://github.com/functionwell/fed-e-task-02-01#readme",
+  "dependencies": {
+    "generator-node": "^2.8.0",
+    "yo": "^3.1.1"
+  }
+}
